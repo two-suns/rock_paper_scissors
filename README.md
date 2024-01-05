@@ -5,4 +5,4 @@
 - VSCode
 
 ## About
-Create a basic game where the player chooses a number and the computer picks at random.
+Created a command-line-based game where the player chooses a number, the computer picks it at random, and the outcome is displayed.
